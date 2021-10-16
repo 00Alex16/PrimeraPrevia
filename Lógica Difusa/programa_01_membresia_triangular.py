@@ -1,7 +1,10 @@
 # Función de Membresía Triangular
 
+# Librería para el manejo de arrays
 import numpy as np
+# Librería para generar la función de membresía triangular
 import skfuzzy as sk
+# Librería para gráficar los resultados
 import matplotlib.pyplot as plt
 
 # Se define un array x para el manejo del factor de calidad en un restaurante
